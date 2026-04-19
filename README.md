@@ -35,7 +35,6 @@ Against a traditional **CQI-based baseline** and a theoretical **Oracle upper bo
 | Random Forest | 81.4% | 0.0448 | 72.9 | +26.5% |
 | XGBoost | **82.7%** | **0.0421** | **74.1** | **+28.6%** |
 | CQI Baseline | 51.3% | 0.1240 | 57.6 | — |
-| Oracle | 100% | 0.0312 | 79.3 | +37.7% |
 
 > Results on held-out test set (15% of 100k frames, chronological split).
 
